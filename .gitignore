@@ -1,0 +1,6 @@
+# Ansible inventory files
+inventory/*
+# Ansible variables file
+group_vars/all/*
+# Ansible vault password file
+vault_pass.txt
